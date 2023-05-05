@@ -1,7 +1,7 @@
-package com.example.mybatisplusdemo.mapper;
+package com.chrisxyq.mybatisplusdemo.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.example.mybatisplusdemo.entity.Usertbl;
+import com.chrisxyq.mybatisplusdemo.entity.Usertbl;
 import org.springframework.stereotype.Repository;
 
 /**

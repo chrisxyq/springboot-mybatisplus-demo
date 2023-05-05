@@ -1,8 +1,8 @@
-package com.example.mybatisplusdemo;
+package com.chrisxyq.mybatisplusdemo;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.example.mybatisplusdemo.entity.Usertbl;
-import com.example.mybatisplusdemo.mapper.UserMapper;
+import com.chrisxyq.mybatisplusdemo.entity.Usertbl;
+import com.chrisxyq.mybatisplusdemo.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @SpringBootTest
-@ComponentScan("com.example.mybatisplusdemo.mapper")
+@ComponentScan("com.chrisxyq.mybatisplusdemo.mapper")
 class MybatisplusDemoApplicationTests {
     @Autowired
     private UserMapper userMapper;

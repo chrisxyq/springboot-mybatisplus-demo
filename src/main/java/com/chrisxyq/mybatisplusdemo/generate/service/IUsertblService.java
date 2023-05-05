@@ -1,6 +1,6 @@
-package com.example.mybatisplusdemo.generate.service;
+package com.chrisxyq.mybatisplusdemo.generate.service;
 
-import com.example.mybatisplusdemo.generate.entity.Usertbl;
+import com.chrisxyq.mybatisplusdemo.generate.entity.Usertbl;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

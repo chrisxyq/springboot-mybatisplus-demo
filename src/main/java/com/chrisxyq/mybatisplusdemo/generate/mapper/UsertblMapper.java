@@ -1,8 +1,7 @@
-package com.example.mybatisplusdemo.generate.mapper;
+package com.chrisxyq.mybatisplusdemo.generate.mapper;
 
-import com.example.mybatisplusdemo.generate.entity.Usertbl;
+import com.chrisxyq.mybatisplusdemo.generate.entity.Usertbl;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import org.springframework.stereotype.Component;
 
 /**
  * <p>

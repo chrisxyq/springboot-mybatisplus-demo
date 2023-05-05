@@ -1,4 +1,4 @@
-package com.example.mybatisplusdemo.generate.controller;
+package com.chrisxyq.mybatisplusdemo.generate.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

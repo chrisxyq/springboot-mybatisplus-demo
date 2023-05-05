@@ -1,4 +1,4 @@
-package com.example.mybatisplusdemo.generate.entity;
+package com.chrisxyq.mybatisplusdemo.generate.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.Version;

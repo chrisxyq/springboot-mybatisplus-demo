@@ -1,8 +1,8 @@
-package com.example.mybatisplusdemo.generate.service.impl;
+package com.chrisxyq.mybatisplusdemo.generate.service.impl;
 
-import com.example.mybatisplusdemo.generate.entity.Usertbl;
-import com.example.mybatisplusdemo.generate.mapper.UsertblMapper;
-import com.example.mybatisplusdemo.generate.service.IUsertblService;
+import com.chrisxyq.mybatisplusdemo.generate.entity.Usertbl;
+import com.chrisxyq.mybatisplusdemo.generate.mapper.UsertblMapper;
+import com.chrisxyq.mybatisplusdemo.generate.service.IUsertblService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

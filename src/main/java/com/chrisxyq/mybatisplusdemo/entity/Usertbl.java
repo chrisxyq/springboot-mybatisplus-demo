@@ -1,4 +1,4 @@
-package com.example.mybatisplusdemo.entity;
+package com.chrisxyq.mybatisplusdemo.entity;
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.AllArgsConstructor;
